@@ -17,7 +17,7 @@ Use sensor data to predict imminent machine failures and schedule maintenance pr
 - NASA Turbofan Engine Degradation Simulation Data
 - Download at: https://data.nasa.gov/dataset/Turbofan-engine-degradation-simulation-data-set/vrks-gjie
 
----
+--------
 
 ## Requirements
 
