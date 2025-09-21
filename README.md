@@ -10,7 +10,7 @@ Use sensor data to predict imminent machine failures and schedule maintenance pr
 - Uses Random Forest classifier on real sensor data
 - Scalable to different machine types
 
----
+-----
 
 ## Dataset
 
