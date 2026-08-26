@@ -2,7 +2,7 @@
 
 Use sensor data to predict imminent machine failures and schedule maintenance proactively.
 
--------
+----------
 
 ## Features
 
